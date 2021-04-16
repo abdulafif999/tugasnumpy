@@ -33,5 +33,3 @@ h1 = np.identity(5)
 h2 = np.eye(5)
 
 # display
-
-print(h2)
